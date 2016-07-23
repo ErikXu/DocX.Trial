@@ -42,8 +42,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DocXFiller.cs" />
-    <Compile Include="DocXItem.cs" />
+    <Compile Include="DocFiller.cs" />
+    <Compile Include="DocItem.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
